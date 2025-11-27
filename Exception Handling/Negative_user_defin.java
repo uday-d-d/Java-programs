@@ -1,3 +1,5 @@
+//Used for User-defined Exception , Throw keyword, Negative Number Exception
+
 class InvalidNumberException extends Exception{
     public InvalidNumberException(){
         System.out.println("Number cannot be negative");
