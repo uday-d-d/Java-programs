@@ -1,6 +1,6 @@
 class InvalidAgeException extends Exception{
     public InvalidAgeException(){
-        super("Age must be 18 or above");
+        System.out.println("Age must be 18 or above");
     }
 }
 
