@@ -54,7 +54,7 @@ class Consumer extends Thread{
     }
 }
 
-public class ProducerConsumerSimple {
+public class ProducerConsumer {
 
     public static void main(String[] args){
         SharedBuffer buffer = new SharedBuffer();

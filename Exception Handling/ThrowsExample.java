@@ -10,4 +10,4 @@ public class ThrowsExample{
             System.out.println("Error : Divide by zero ");
         }
     }
-} 
+}

@@ -7,19 +7,16 @@ class Bank{
     }
 }
 class SBI extends Bank{
-    @Override
     public void rateOfInterest(){
         System.out.println("Rate of interest of SBI id 3%");
     }
 }
 class HDFC extends Bank{
-    @Override
     public void rateOfInterest(){
         System.out.println("Rate of interest of HDFC id 5%");
     }
 }
 class ICICI extends Bank{
-    @Override
     public void rateOfInterest(){
         System.out.println("Rate of interest of ICICI id 3%");
     }

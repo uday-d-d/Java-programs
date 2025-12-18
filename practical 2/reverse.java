@@ -14,4 +14,4 @@ public class reverse {
         }
         System.out.println("Reversed Number: " + reverse);
     }
-} 
+}

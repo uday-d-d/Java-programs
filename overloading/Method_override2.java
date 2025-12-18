@@ -6,13 +6,11 @@ class Sports{
     }
 }
 class Cricket extends Sports{
-    @Override
     public void play(){
         System.out.println("Playing Cricket in Cricket class method");
     }
 }
 class Football extends Sports{
-    @Override
     public void play(){
         System.out.println("Playing Football in Football class method");
     }
